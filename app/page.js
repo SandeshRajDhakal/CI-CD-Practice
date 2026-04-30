@@ -85,7 +85,7 @@ export default function HomePage() {
         <div>
           <h2>Flash Deal of the Week</h2>
           <p>
-            Save up to 40% on selected gaming laptops, wireless earbuds and smart displays. Limited stock
+            Save up to 99% on selected gaming laptops, wireless earbuds and smart displays. Limited stock
             available.
           </p>
           <a href="#contact" className="btnPrimary">
